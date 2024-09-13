@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Consejos para mantener tu coche como nuevo",
+        "fecha": "2024-06-01",
+        "contenido": "Mantener tu coche en perfecto estado no es solo cuestión de estética, también es crucial para su buen funcionamiento. En este artículo, te damos algunos consejos de detailing que te ayudarán a mantener tu coche como nuevo.",
+        "autor": "Juan Pérez"
+    },
+    {
+        "titulo": "Productos esenciales para el detailing",
+        "fecha": "2024-05-15",
+        "contenido": "El detailing de coches requiere de productos específicos para obtener los mejores resultados. Aquí te presentamos una lista de productos esenciales que no pueden faltar en tu kit de detailing.",
+        "autor": "Ana Martínez"
+    },
+    {
+        "titulo": "Errores comunes al limpiar tu coche",
+        "fecha": "2024-05-10",
+        "contenido": "La limpieza del coche puede parecer una tarea sencilla, pero hay varios errores comunes que pueden dañar la pintura y otros componentes. Descubre cuáles son y cómo evitarlos.",
+        "autor": "Carlos Rodríguez"
+    },
+    {
+        "titulo": "Beneficios del detailing profesional",
+        "fecha": "2024-04-25",
+        "contenido": "El detailing profesional ofrece numerosos beneficios que van más allá de una simple limpieza. Conoce las ventajas de acudir a un servicio especializado en detailing de coches.",
+        "autor": "Laura Gómez"
+    },
+    {
+        "titulo": "Técnicas avanzadas de detailing",
+        "fecha": "2024-04-20",
+        "contenido": "Para aquellos que quieren llevar el detailing al siguiente nivel, aquí presentamos algunas técnicas avanzadas que te permitirán lograr un acabado perfecto y profesional.",
+        "autor": "David López"
+    }
+]
